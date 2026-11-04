@@ -3,16 +3,16 @@
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
 
-**Created using [OMGithub.com](https://omgithub.com).**
+**Created using [OMGithub.com](https://go.ondev.store/).**
 
-[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/rafael7911/PlayGround)
+[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://go.ondev.store/rafael7911/PlayGround)
 [![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/rafael7911/PlayGround)
 
-- 🎮 [Open the project](https://omgithub.com/rafael7911/PlayGround).
-- ✨ [Remix this project](https://omgithub.com/?remix=rafael7911%2FPlayGround).
+- 🎮 [Open the project](https://go.ondev.store/rafael7911/PlayGround).
+- ✨ [Remix this project](https://go.ondev.store/rafael7911/PlayGround?remix=1).
 - 💻 [Explore the source](https://github.com/rafael7911/PlayGround).
 - 🛠️ [Check build runs](https://github.com/rafael7911/PlayGround/actions).
 - 🐛 [Report an issue](https://github.com/rafael7911/PlayGround/issues).
-- 👤 [Explore the creator's projects](https://omgithub.com/rafael7911).
-- 🌍 [Create with OMGithub](https://omgithub.com).
+- 👤 [Explore the creator's projects](https://go.ondev.store/rafael7911).
+- 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
